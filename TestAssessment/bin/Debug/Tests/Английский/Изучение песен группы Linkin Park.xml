@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<test>
+  <Theme>Linkin Park</Theme>
+  <qw numbers="2">
+    <q1 text="I've become so ..." right="numb">
+      <answers>numb|glorious|sad|dissapinted</answers>
+    </q1>
+    <q2 text="It starts with ..." right="one thing">
+      <answers>all i know|pendium swings|one thing|my heart</answers>
+    </q2>
+  </qw>
+</test>
